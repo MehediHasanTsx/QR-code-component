@@ -21,12 +21,12 @@ body {
 .contant_area {
     background-color: hsl(0, 0%, 100%);
     box-sizing: border-box;
-    width: 310px;
-    height: 490px;
+    width: 320px;
+    height: 499px;
     padding: 1rem;
     margin: 0 auto;
     border-radius: 1.5rem;
-    box-shadow: 0px 0px 10px 1px;
+    box-shadow: 0px 0px 20px 1px rgba(65, 64, 64, 0.5);
 }
 
 .image {
