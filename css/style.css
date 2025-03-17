@@ -11,9 +11,11 @@ body {
 }
 
 .main_section {
-    margin: auto;
-    margin-top: 200px;
-    margin-bottom: 150px;
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 .contant_area {
